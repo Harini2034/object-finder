@@ -17,13 +17,13 @@ body
     font-size: 25px;
 }
 
-.numb
+#numb
 {
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
 }
 
-.stats
+#stats
 {
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
@@ -35,4 +35,11 @@ body
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
     font-weight: 700;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aqua;
 }
